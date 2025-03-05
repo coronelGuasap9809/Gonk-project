@@ -1,4 +1,4 @@
-function pissVar(){
+function whenSlide(){
   gonks.textContent = slider.value;
   if (slider.value == 1){
     gonkGonks.textContent = 'gonk.'
@@ -18,5 +18,5 @@ function bayatalagui(){
     image.style.display = 'none';
   }
 }
-slider.oninput = pissVar;
+slider.oninput = whenSlide;
 button.onclick = bayatalagui;
