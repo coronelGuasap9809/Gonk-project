@@ -1,4 +1,4 @@
-## gonk-project
+# gonk-project
 
 Welcome to my gonk project! This is a simple HTML/CSS/JS project that I created to practice my web development skills.
 
