@@ -20,3 +20,5 @@ function bayatalagui(){
 }
 slider.oninput = whenSlide;
 button.onclick = bayatalagui;
+
+//for those wondering, 'shoogabooga' is random gibberish I got off a JS course that is a small inside joke

@@ -1,15 +1,18 @@
 h1{
   color: red;
   margin-top: 0;
+  font-family: sans-serif;
 }
 
 h2{
   color: blue;
   margin-bottom: 0;
+  font-family: sans-serif;
 }
 
 h3{
   margin: 0;
+  font-family: sans-serif;
 }
 
 span{
@@ -36,6 +39,11 @@ button{
   width: 100px;
   padding: 10px;
   margin: 10px;
+  font-family: sans-serif;
+}
+
+label{
+  font-family: sans-serif;
 }
 
 img{

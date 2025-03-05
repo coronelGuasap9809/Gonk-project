@@ -1,4 +1,4 @@
-#gonk-project
+# gonk-project
 
 Welcome to my gonk project! This is a simple HTML/CSS/JS project that I created to practice my web development skills.
 
@@ -32,7 +32,7 @@ Open the `index.html` file in your web browser to see the project in action.
 I have also created a GitHub Pages URL to test it. 
 
 ```sh
-https://coronelguasap9808.github.io
+https://coronelguasap9808.github.io/Gonk-project/
 ```
 
 If my project doesn't work or run properly, then I don't know what to tell you except "bug".
