@@ -1,3 +1,5 @@
+gonkVar = 1 + Math.floor(Math.random() * 400);
+
 function whenSlide(){
   gonks.textContent = slider.value;
   if (slider.value == 1){
@@ -6,11 +8,12 @@ function whenSlide(){
     gonkGonks.textContent = 'gonks.'
   }
 }
+
 function bayatalagui(){
-  if (slider.value == 279){
+  if (slider.value ==  gonkVar){
     shoogabooga.textContent = 'You found the secret gonk!';
     image.style.display = 'block';
-  }else if (slider.value < 279) {
+  }else if (slider.value < gonkVar) {
     shoogabooga.textContent = 'Not enough Gonks';
     image.style.display = 'none';
   } else {
@@ -18,6 +21,7 @@ function bayatalagui(){
     image.style.display = 'none';
   }
 }
+
 slider.oninput = whenSlide;
 button.onclick = bayatalagui;
 
