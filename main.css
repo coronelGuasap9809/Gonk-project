@@ -62,3 +62,8 @@ img{
   font-family: fantasy;
   color: red;
 }
+
+body{
+  background-image: url('gonk.jpg');
+  background-color: #ffffff;
+}
