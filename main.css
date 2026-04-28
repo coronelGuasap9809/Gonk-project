@@ -5,7 +5,7 @@
 h1{
   color: red;
   margin-top: 0;
-  font-family: sans-serif;
+  font-family: sans-serif, "Be Vietnam Pro";
 }
 
 h2{
@@ -31,7 +31,7 @@ div{
   margin: 20px auto; 
   border-radius: 20px;
   border-style: solid;
-  border-color: grey;
+  border-color: white;
   border-width: 1px;
   background-color: rgba(100, 100, 100, 0.4);
   -webkit-backdrop-filter: blur(6px);
