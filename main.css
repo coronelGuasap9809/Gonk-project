@@ -3,13 +3,13 @@
 }
 
 h1{
-  color: lightcoral;
+  color: white;
   margin-top: 0;
   font-family: sans-serif, "Be Vietnam Pro";
 }
 
 h2{
-  color: lightblue;
+  color: #e6e6e6;
   margin-bottom: 0;
   font-family: sans-serif;
 }
@@ -21,7 +21,7 @@ h3{
 
 span{
   font-size: 1.5em;
-  color: lightgreen;
+  color: greenyellow;
   font-family: monospace;
 }
 
