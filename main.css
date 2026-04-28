@@ -24,12 +24,12 @@ span{
 div{
   width: 800px;
   padding: 10px;
-  margin: 20px auto;
-  background-color: rgb(250, 250, 250); 
+  margin: 20px auto; 
   border-radius: 20px;
   border-style: solid;
   border-color: grey;
-  border-width: 2px;
+  border-width: 1px;
+  backdrop-filter: blur 6px;
 }
 
 input{
