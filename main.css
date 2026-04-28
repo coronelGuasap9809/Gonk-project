@@ -30,7 +30,7 @@ div{
   padding: 10px;
   margin: 20px auto; 
   border-radius: 20px;
-  border-style: solid;
+  border-style: none;
   border-color: rgb(200, 200, 200);
   border-width: 1px;
   background-color: rgba(70, 70, 70, 0.4);
