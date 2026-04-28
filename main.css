@@ -31,7 +31,7 @@ div{
   margin: 20px auto; 
   border-radius: 20px;
   border-style: solid;
-  border-color: white;
+  border-color: rgb(200, 200, 200);
   border-width: 1px;
   background-color: rgba(100, 100, 100, 0.4);
   -webkit-backdrop-filter: blur(6px);
