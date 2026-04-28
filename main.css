@@ -19,6 +19,12 @@ h3{
   font-family: sans-serif;
 }
 
+span{
+  font-size: 1.5em;
+  color: white;
+  font-family: monospace;
+}
+
 div{
   width: 800px;
   padding: 10px;
@@ -56,17 +62,13 @@ img{
 .plural{
   font-size: 1em;
   font-family: sans-serif;
+  color: #dddddd;
 }
 
 .special{
   font-size: 1em;
   font-family: fantasy;
   color: goldenrod;
-}
-
-.gonks{
-  font-size: 1.5em;
-  color: white;
 }
 
 body{
